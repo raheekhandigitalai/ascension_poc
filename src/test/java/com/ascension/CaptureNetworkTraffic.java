@@ -1,5 +1,6 @@
 package com.ascension;
 
+import com.experitest.appium.SeeTestClient;
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;
 import io.appium.java_client.AppiumDriver;
