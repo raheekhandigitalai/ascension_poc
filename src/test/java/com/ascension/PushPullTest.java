@@ -24,7 +24,7 @@ import static org.testng.Assert.assertEquals;
 @Listeners(Listener.class)
 public class PushPullTest {
 
-    private String accessKey = "eyJ4cC51Ijo3MzU0MjQsInhwLnAiOjIsInhwLm0iOiJNVFUzT0RZd016ZzFOek16TVEiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE4OTM5NjM4NTcsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.GP0hK0o0j2WEKt-J0aXsVbu1tmt-PhWUryqluokszJk";
+    private String accessKey = "";
     protected AndroidDriver<AndroidElement> driver = null;
     protected DesiredCapabilities dc = new DesiredCapabilities();
 
